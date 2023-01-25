@@ -1,0 +1,5 @@
+.idea/
+venv/
+aroma/aroma/__pycache__/
+aroma/home/__pycache__/
+aroma/home/migrations/__pycache__/
