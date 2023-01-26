@@ -3,3 +3,6 @@ venv/
 aroma/aroma/__pycache__/
 aroma/home/__pycache__/
 aroma/home/migrations/__pycache__/
+aroma/authorization/__pycache__/
+aroma/authorization/migrations/__pycache__/
+aroma/db.sqlite3
