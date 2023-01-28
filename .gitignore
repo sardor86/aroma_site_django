@@ -5,4 +5,6 @@ aroma/home/__pycache__/
 aroma/home/migrations/__pycache__/
 aroma/authorization/__pycache__/
 aroma/authorization/migrations/__pycache__/
-aroma/db.sqlite3
+aroma/authorization/migrations/0001_initial.py
+
+.env
